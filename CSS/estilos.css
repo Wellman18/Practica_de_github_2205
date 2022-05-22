@@ -4,16 +4,26 @@
     box-sizing: border-box;
 }
 
+body{
+    background-image: url(../Imagenes/pexels-jae-park-3802510.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 html{
     font-size: 62.5%;
 }
 
+
+
 p{
     font-size: 1.7rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .contenedor{
-    border: 0.3rem solid black;
+    border: 0.3rem dotted black;
     width: 40%;
     margin: 0 auto;
     margin-top: 0.9rem;
@@ -24,5 +34,7 @@ h1{
     color: blue;
     text-align: center;
 }
+
+
 
 
