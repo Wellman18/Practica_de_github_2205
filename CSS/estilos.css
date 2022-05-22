@@ -25,4 +25,12 @@ h1{
     text-align: center;
 }
 
+.footer{
+    background-color: red;
+    color: white;
+    /*margin-top: 90%;*/
+    margin-top: 35.7%;
+    height: 5rem;
+}
+
 
